@@ -14,20 +14,20 @@ function Nav() {
         <RiArrowRightWideLine className="text-xl text-purple-700" />
       </div>
       <div className="hidden md:flex space-x-6">
-        <a href="#" className="hover:text-gray-400 transition">
+        <a href="#" className="hover:text-purple-400 transition">
           About
         </a>
-        <a href="#" className="hover:text-gray-400 transition">
+        <a href="#" className="hover:text-purple-400 transition">
           Skills
         </a>
-        <a href="#" className="hover:text-gray-400 transition">
+        <a href="#" className="hover:text-purple-400 transition">
           Projects
         </a>
-        <a href="#" className="hover:text-gray-400 transition">
+        <a href="#" className="hover:text-purple-400 transition">
           Experience
         </a>
-        <a href="#" className="hover:text-gray-400 transition">
-          Education
+        <a href="#" className="hover:text-purple-400 transition">
+          Contact Us
         </a>
       </div>
       <div>

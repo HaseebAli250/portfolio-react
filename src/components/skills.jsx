@@ -16,7 +16,7 @@ function Skills() {
         <div className="flex flex-wrap justify-center">
           {/* Front-end Skills */}
           <div className="w-full sm:w-1/2 p-4 ">
-            <div className="bg-purple-800 rounded-lg p-6 border border-purple-600 shadow-lg text-center">
+            <div className="bg-purple-800 rounded-lg p-6 border border-gray-800 shadow-lg text-center">
               <h2 className="text-xl font-semibold mb-2 text-white">Front-end</h2>
               <div className="grid grid-cols-3 gap-4">
                 <div className="bg-gray-900 p-4 rounded-lg flex flex-col items-center">

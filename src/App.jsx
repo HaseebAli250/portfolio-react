@@ -2,6 +2,7 @@ import Portfolio from "./components/portfolio";
 import Nav from "./components/nav";
 import Skills from "./components/skills";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 import "./App.css";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Portfolio />
       <Skills />
       <Contact />
+      <Footer />
     </>
   );
 }
