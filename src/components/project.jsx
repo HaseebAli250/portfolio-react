@@ -6,7 +6,7 @@ import project4 from "../assets/project4.png";
 
 function Project() {
   return (
-    <div className=" p-6">
+    <div id="projects" className="p-6">
       <div className="text-center mb-6">
         <h1 className="text-4xl text-purple-500 font-bold">Projects</h1>
         <p className="text-xl text-gray-300">
@@ -15,7 +15,6 @@ function Project() {
         </p>
       </div>
       <div className="flex flex-wrap justify-center gap-6">
-        {/* Default box size for the first and third boxes */}
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 bg-gray-700 p-6 rounded-lg shadow-lg">
           <img
             src={project1}
@@ -28,7 +27,6 @@ function Project() {
           </p>
         </div>
 
-        {/* Wider box for the second project */}
         <div className="w-full sm:w-1/2 md:w-1/2 lg:w-1/3 bg-purple-700 p-6 rounded-lg shadow-lg">
           <img
             src={project2}
@@ -39,7 +37,6 @@ function Project() {
           <p className="text-gray-400">A brief description of Constructor.</p>
         </div>
 
-        {/* Default box size for the third box */}
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 bg-gray-700 p-6 rounded-lg shadow-lg">
           <img
             src={project4}
@@ -52,7 +49,6 @@ function Project() {
           </p>
         </div>
 
-        {/* Wider box for the fourth project */}
         <div className="w-full sm:w-1/2 md:w-1/2 lg:w-1/3 bg-purple-700 p-6 rounded-lg shadow-lg">
           <img
             src={project3}

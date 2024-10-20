@@ -3,8 +3,10 @@ import img from "../assets/haseeb.jpg";
 
 function Portfolio() {
   return (
-    <div className="w-full flex flex-col md:flex-row items-center justify-between px-6 py-8 ">
-      {/* Left Section */}
+    <div
+      id="about"
+      className="w-full flex flex-col md:flex-row items-center justify-between px-6 py-8"
+    >
       <div className="md:w-1/2 w-full text-white text-center md:text-left mb-6 md:mb-0">
         <h1 className="text-3xl md:text-5xl font-bold">Hi, I am </h1>
         <h1 className="text-4xl md:text-6xl font-bold text-purple-500">
@@ -24,7 +26,6 @@ function Portfolio() {
         </button>
       </div>
 
-      {/* Right Section with Image */}
       <div className="md:w-1/2 w-full flex justify-center md:justify-end">
         <img
           src={img}
