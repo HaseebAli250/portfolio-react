@@ -13,7 +13,7 @@ function Nav() {
         <h1 className="text-lg font-bold">ALI</h1>
         <RiArrowRightWideLine className="text-xl text-purple-700" />
       </div>
-      <div className="hidden md:flex space-x-6">
+      <div className="hidden md:flex space-x-6 text-xl">
         <a href="#" className="hover:text-purple-400 transition">
           About
         </a>

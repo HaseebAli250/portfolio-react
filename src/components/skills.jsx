@@ -6,9 +6,9 @@ function Skills() {
   return (
     <>
       <div className="w-full py-8 px-4">
-        <div className="text-white text-center mb-6">
-          <h1 className="text-3xl font-bold mb-4">Skills</h1>
-          <p className="text-xl">
+        <div className=" text-center mb-6">
+          <h1 className="text-3xl text-purple-600 font-bold mb-4">Skills</h1>
+          <p className="text-xl text-white">
             Here are some of my skills on which I have been working for the past
             3 years.
           </p>

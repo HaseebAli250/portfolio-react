@@ -5,9 +5,9 @@ function Contact() {
   return (
     <>
       <div className="w-full py-8 px-4">
-        <div className="text-white text-center mb-6">
-          <h1 className="text-3xl font-bold mb-4">Email Me</h1>
-          <p className="text-2xl">
+        <div className=" text-center mb-6">
+          <h1 className="text-3xl text-purple-600 font-bold mb-4">Email Me</h1>
+          <p className="text-2xl text-white">
             Feel free to reach out to me for any questions or opportunities!
           </p>
         </div>
