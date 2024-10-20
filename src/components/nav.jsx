@@ -24,7 +24,7 @@ function Nav() {
           Projects
         </a>
         <a href="#" className="hover:text-purple-400 transition">
-          Experience
+          Education
         </a>
         <a href="#" className="hover:text-purple-400 transition">
           Contact Us

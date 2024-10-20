@@ -9,7 +9,8 @@
 
 @media (max-width: 768px) {
     #root {
-        background-size: auto; 
-        height: auto;
+        background-size: cover; 
+        height: auto;            
+        min-height: 100vh;      
     }
 }
