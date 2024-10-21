@@ -33,7 +33,7 @@ function Nav() {
       <div>
         <a
           href=""
-          className="text-sm text-purple-700 border border-purple-700 md:text-base px-4 py-2 rounded-full hover:bg-purple-600 transition"
+          className="text-sm text-purple-500 border border-purple-700 md:text-base px-4 py-2 rounded-full hover:bg-purple-600 hover:text-purple-900 transition"
         >
           GITHUB PROFILE
         </a>
