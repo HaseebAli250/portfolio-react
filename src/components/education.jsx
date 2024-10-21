@@ -7,7 +7,7 @@ function Education() {
       className="flex flex-col items-center min-h-screen relative"
     >
       <div className="text-center mb-12 mt-8">
-        <h1 className="text-4xl text-white font-bold mb-4 md:text-5xl">
+        <h1 className="text-4xl text-purple-500 font-bold mb-4 md:text-5xl">
           Education
         </h1>
         <p className="text-lg text-gray-400 md:text-xl">
